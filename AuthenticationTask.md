@@ -16,4 +16,15 @@ You have succesfully authenticated yourself to the system but you are not **auth
 
  ![MFA Authentication](https://www.avatier.com/blog/wp-content/uploads/2018/03/blog-mfa-how-it-works.jpg "MFA Authentication")
 
-#
+## Continuous Risk-based Authentication (RBA)
+
+Alright, so you entered your credentials, authenticated yoursef with biometrics, everything seems just fine, but there can be some additional safety measures implemented into the system. More and more companies use the Risk-based authentication (RBA). The RBA checks the logging method in real time. These are taken into consideration:
+
+* Device
+* Location
+* IP address
+* Confidentiality of the resource
+
+After all the data is checked, the system makes the real-time decision if you will be allowed to the information you are trying to access. It can either let you through as usual or you will be asked to provide some additional information, so that the system is certain that it is you.
+
+The most important benefit of using RBA is clearly the safety of your data. You can detect any suspicious and unauthorised access to your mailbox or a bank account because, most likely, you will receive a notification. However, some drawbacks of such approach may also emerge. The evil does not sleep, meaning, the system which estimates the risk has to be continuously updated and maintained because new threats appear. They say "time is money" and such approach is time consuming. The people may find it frustrating to authenticate themselves additionally each time they change location or a device from which they try to gain access. Last but not least, a bad implementation of the RBA may result in giving access to the sensitive data to the unauthorised people or block access to the data for the rightful users.
