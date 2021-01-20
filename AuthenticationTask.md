@@ -14,4 +14,4 @@ You have succesfully authenticated yourself to the system but you are not **auth
 
  In modern identity management and security systems it is not enough to just simplu enter your login and password. For example, your company uses Microsoft solutions. You may be asked to download the Authenticator app, log into it with your company credentials and set another "step" of defining that you are you. You have a variety of additional security levels. You may set a PIN code, add your fingerprint (biometric authentication) or type a one-time short code, which will expire after 90 seconds.
 
- ![MFA Authentication](https://www.avatier.com/blog/wp-content/uploads/2018/03/blog-mfa-how-it-works.jpg
+ ![MFA Authentication](https://www.avatier.com/blog/wp-content/uploads/2018/03/blog-mfa-how-it-works.jpg "MFA Authentication")
